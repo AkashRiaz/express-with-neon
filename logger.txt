@@ -1,0 +1,20 @@
+Method -> GET Time ->1779114628757 URL-> /
+ Method -> GET Time ->1779114696868 URL-> / 
+
+ Method -> GET Time ->1779114717512 URL-> /api/user/ 
+
+ Method -> GET Time ->1779114725798 URL-> /api/order 
+
+ Method -> GET Time ->1779115096247 URL-> /api/ 
+
+ Method -> GET Time ->1779115111901 URL-> /api/user 
+
+ Method -> GET Time ->1779115293789 URL-> /api/user 
+
+ Method -> GET Time ->1779125782723 URL-> / 
+
+ Method -> GET Time ->1779129615298 URL-> / 
+
+ Method -> GET Time ->1779129616022 URL-> /favicon.ico 
+
+ Method -> POST Time ->1779187557716 URL-> /api/users 
